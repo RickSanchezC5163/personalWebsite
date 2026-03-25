@@ -1,3 +1,27 @@
+const profile = {
+  name: 'RickSanchezC5163',
+  role: '学习型开发者 / 论文记录者',
+  status: '持续升级中',
+  bio: '我把课程资料、论文阅读和项目实验统一整理在这里。目标不是简单收藏，而是把每一次输入都沉淀成下一次可以直接调用的知识模块。',
+  mission: '当前重点关注大模型应用、工程实现和系统化学习方法，喜欢把抽象概念拆成能复现、能比较、能真正落地的实践。',
+  focus: ['LLM 应用', 'NLP', '系统设计', '工程效率'],
+  current: [
+    '保持稳定的论文阅读节奏，并把重点结论写成可检索笔记',
+    '把零散课程资料整理成带标签的长期资料库',
+    '围绕小型项目验证想法，尽量让学习结果变成真实产出'
+  ],
+  links: [
+    {
+      label: 'GitHub',
+      url: 'https://github.com/RickSanchezC5163'
+    },
+    {
+      label: 'Repository',
+      url: 'https://github.com/RickSanchezC5163/personalWebsite'
+    }
+  ]
+};
+
 const resources = [
   {
     title: 'CS224N 课程笔记',
